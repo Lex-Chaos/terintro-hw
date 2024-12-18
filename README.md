@@ -4,7 +4,7 @@
 
 Версия Terraform
 
-![Версия Terraform](https://github.com/Lex-Chaos/terintro/blob/main/img/Task-0-1.png)
+![Версия Terraform](https://github.com/Lex-Chaos/terintro-hw/blob/main/img/Task-0-1.png)
 
 ### Задание 1
 
