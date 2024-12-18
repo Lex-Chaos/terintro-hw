@@ -12,11 +12,11 @@
 
 - В поле **result** - секретное содержимое
 
-![Версия Terraform](https://github.com/Lex-Chaos/terintro/blob/main/img/Task-1-2.png)
+![Версия Terraform](https://github.com/Lex-Chaos/terintro-hw/blob/main/img/Task-1-2.png)
 
 - Выполнение конфигурации с ошибками
 
-![Выполнено с ошибками](https://github.com/Lex-Chaos/terintro/blob/main/img/Task-1-3.png)
+![Выполнено с ошибками](https://github.com/Lex-Chaos/terintro-hw/blob/main/img/Task-1-3.png)
 
 Ошибки:
  пропущено имя ресурса;
@@ -24,15 +24,15 @@
 
 Файл конфигурации с ошибками:
 
-![Конфигурация с ошибками](https://github.com/Lex-Chaos/terintro/blob/main/img/Task-1-4.png)
+![Конфигурация с ошибками](https://github.com/Lex-Chaos/terintro-hw/blob/main/img/Task-1-4.png)
 
 Исправленный файл конфигурации:
 
-![Исправленная конфигурация](https://github.com/Lex-Chaos/terintro/blob/main/img/Task-1-5.png)
+![Исправленная конфигурация](https://github.com/Lex-Chaos/terintro-hw/blob/main/img/Task-1-5.png)
 
 Выполнение конфигурации без ошибок
 
-![Выполнено без ошибок](https://github.com/Lex-Chaos/terintro/blob/main/img/Task-1-6.png)
+![Выполнено без ошибок](https://github.com/Lex-Chaos/terintro-hw/blob/main/img/Task-1-6.png)
 
 - Команда `terraform apply -auto-approve` автоматически применяет изменения без подтверждения пользователем. Можно случайно удалить или изменить важные ресурсы.
 
@@ -41,7 +41,7 @@
  в тестовых средах
  при незначительных изменениях конфигурации
 
-![Результат docker ps](https://github.com/Lex-Chaos/terintro/blob/main/img/Task-1-7.png)
+![Результат docker ps](https://github.com/Lex-Chaos/terintro-hw/blob/main/img/Task-1-7.png)
 
 - Удаление ресурсов с помощью terraform
 
